@@ -8,10 +8,10 @@ National Pollutant Release Inventory (NPRI) Forecasting:
 
 Analyzed historical pollutant release data across Canadian provinces to identify long-term environmental trends and forecast future emissions. Aggregated facility-level records, handled reporting inconsistencies, and applied regression models to support environmental monitoring and policy-oriented insights.
 
-Dealer-Level Service Revenue Analysis (GoAuto Project – Open Data Replica):
+Dealer-Level Service Revenue Analysis:
 
 Modeled service revenue patterns using vehicle and service-related features to identify key drivers of dealership performance. Trained and evaluated regression models to forecast revenue trends and demonstrated how insights could support operational planning and decision-making.
 
-Customer Behavior / Churn Analysis (WIL Open Data Replica)
+Life Expectancy Analysis:
 
-Used open customer datasets to replicate an industry churn analysis workflow. Performed data cleaning, feature engineering, and classification modeling to identify factors associated with customer retention and attrition.
+Analyzed global life expectancy data to understand how health and demographic factors influence longevity across countries. Built and evaluated regression models to quantify key drivers, handled missing and inconsistent records, and visualized trends to compare outcomes across regions.
